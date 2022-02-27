@@ -8,3 +8,11 @@ X-Horizontal check formula :
  
 y-Vertical check formula :
 (a.y < (b.y+b.height)) && ((a.y + a.height) > b.y);
+
+
+Moving the boxes
+
+Box 1 Red - Moves with Arrow keys
+Box 2 Blue - Moves with A,W,S,Z keys
+
+Move the boxes, check for overlap
